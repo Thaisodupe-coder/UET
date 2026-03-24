@@ -5,6 +5,6 @@ public class Main {
 }
 
 class A {
-    int x = 20;
+    int x=20;
     
 }
