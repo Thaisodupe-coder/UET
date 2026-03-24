@@ -3,7 +3,8 @@ public class Main {
         System.out.println("haha");
     }
 }
+
 class A {
-    int x =10;
+    int x=20;
     
 }
